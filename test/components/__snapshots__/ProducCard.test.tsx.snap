@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductCard debe de mostrar el componente correctamente 1`] = `
+<div
+  className="productCard undefined"
+>
+  <h1>
+    Product Card
+  </h1>
+</div>
+`;
+
+exports[`ProductCard debe de mostrar el componente correctamente con la imagen personalixada 1`] = `
+<div
+  className="productCard undefined"
+>
+  <h1>
+    Product Card
+  </h1>
+</div>
+`;
+
+exports[`ProductCard debe mostrar el componente con la image del producto 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product Image"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
+
+exports[`ProductCard should incrementar el contador 1`] = `
+<div
+  className="productCard undefined"
+>
+  <h1>
+    Product card
+  </h1>
+  <span>
+    0
+  </span>
+  <button
+    onClick={[Function]}
+  />
+</div>
+`;
+
+exports[`ProductImage debe de mostrar el componente correctamente con la imagen personalixada 1`] = `
+<img
+  alt="Product Image"
+  className="productImg undefined"
+  src="https://hols.jpg"
+/>
+`;
+
+exports[`ProductImage debe mostrar el componente con la image del producto 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product Image"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
